@@ -7,7 +7,7 @@ Sou o Cytus
 
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUpatOZhqjHt0q6qqyxkYJj7CoW4i7coFckg&s" width="200">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Richard+Perez+Pereira;Eu+tenho+19+anos;Eu+moro+em+Manaus,+AM;Eu+estudo+Análise+e+Desenvolvimento+de+Sistemas;Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Richard+Perez+Pereira;Eu+tenho+20+anos;Eu+moro+em+Manaus,+AM;Eu+estudo+Análise+e+Desenvolvimento+de+Sistemas;Bem-vindo!+:%29)](https://git.io/typing-svg)
 <!--
 **RipCytuss/RipCytuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
